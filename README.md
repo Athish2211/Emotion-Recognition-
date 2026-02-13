@@ -254,10 +254,7 @@ The EDA notebook includes:
 ## 🔮 Future Enhancements
 
 - [ ] Real-time emotion detection from webcam
-- [ ] Model optimization for mobile deployment
 - [ ] Transfer learning with pre-trained models (VGG, ResNet)
-- [ ] Multi-face detection in single image
-- [ ] Web application interface
 - [ ] REST API for emotion detection service
 
 ## 🤝 Contributing
@@ -279,10 +276,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Dataset providers for emotion recognition dataset
 - TensorFlow and Keras communities
 - Deep Learning Hackathon organizers
-
-## 📧 Contact
-
-Your Name - [@yourhandle](https://twitter.com/yourhandle)
 
 Project Link: [https://github.com/yourusername/emotion-detection-dl](https://github.com/yourusername/emotion-detection-dl)
 
