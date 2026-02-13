@@ -13,7 +13,6 @@ A Convolutional Neural Network (CNN) based emotion recognition system that class
 - [Project Structure](#project-structure)
 - [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## 🔍 Overview
 
@@ -267,17 +266,12 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📝 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## 👏 Acknowledgments
 
 - Dataset providers for emotion recognition dataset
 - TensorFlow and Keras communities
 - Deep Learning Hackathon organizers
 
-Project Link: [https://github.com/yourusername/emotion-detection-dl](https://github.com/yourusername/emotion-detection-dl)
 
 ---
 
